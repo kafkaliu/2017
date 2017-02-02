@@ -157,3 +157,7 @@ DL课程
 # 2017.02.01
 
 必胜客、电影三傻、学习DL
+
+# 2017.02.02
+
+udacity dl学习，Gradient descent
