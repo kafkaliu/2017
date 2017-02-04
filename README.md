@@ -161,3 +161,11 @@ DL课程
 # 2017.02.02
 
 udacity dl学习，Gradient descent
+
+# 2017.02.03
+
+添加first project
+
+# 2017.02.04
+
+学到Backpropagation
