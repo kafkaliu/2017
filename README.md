@@ -169,3 +169,7 @@ udacity dl学习，Gradient descent
 # 2017.02.04
 
 学到Backpropagation
+
+# 2017.02.05
+
+回蓉。看机器学习、大数据。
