@@ -193,3 +193,7 @@ udacity dl学习，Gradient descent
 # 2017.02.10
 
 回顾项目
+
+# 2017.02.11
+
+写规划报告
