@@ -197,3 +197,7 @@ udacity dl学习，Gradient descent
 # 2017.02.11
 
 写规划报告
+
+# 2017.02.12
+
+看《大数据》和DL
