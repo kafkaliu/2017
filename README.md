@@ -209,3 +209,7 @@ udacity dl学习，Gradient descent
 # 2017.02.14
 
 讨论主播CRM
+
+# 2017.02.15
+
+聊本月目标、出差
