@@ -233,3 +233,7 @@ udacity dl学习，Gradient descent
 # 2017.02.20
 
 与姜总交流
+
+# 2017.02.21
+
+面试
