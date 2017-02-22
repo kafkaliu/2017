@@ -237,3 +237,7 @@ udacity dl学习，Gradient descent
 # 2017.02.21
 
 面试
+
+# 2017.02.22
+
+2、3月目标
