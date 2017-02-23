@@ -245,3 +245,7 @@ udacity dl学习，Gradient descent
 # 2017.02.23
 
 面试、饭局
+
+# 2017.02.24
+
+出发
