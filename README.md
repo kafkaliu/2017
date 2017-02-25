@@ -249,3 +249,7 @@ udacity dl学习，Gradient descent
 # 2017.02.24
 
 出发
+
+# 2017.02.25
+
+领物料
