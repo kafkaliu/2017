@@ -253,3 +253,7 @@ udacity dl学习，Gradient descent
 # 2017.02.25
 
 领物料
+
+# 2017.02.26
+
+东马
