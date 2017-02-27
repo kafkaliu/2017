@@ -257,3 +257,7 @@ udacity dl学习，Gradient descent
 # 2017.02.26
 
 东马
+
+# 2017.02.27
+
+回成
