@@ -277,3 +277,7 @@ udacity dl学习，Gradient descent
 # 2017.03.03
 
 过项目
+
+# 2017.03.04
+
+周六
