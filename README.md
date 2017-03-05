@@ -281,3 +281,7 @@ udacity dl学习，Gradient descent
 # 2017.03.04
 
 周六
+
+# 2017.03.05
+
+看书、看片
