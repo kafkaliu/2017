@@ -285,3 +285,7 @@ udacity dl学习，Gradient descent
 # 2017.03.05
 
 看书、看片
+
+# 2017.03.06
+
+讨论方案
