@@ -297,3 +297,7 @@ udacity dl学习，Gradient descent
 # 2017.03.08
 
 过节
+
+# 2017.03.09
+
+试用期
