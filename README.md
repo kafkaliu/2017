@@ -301,3 +301,7 @@ udacity dl学习，Gradient descent
 # 2017.03.09
 
 试用期
+
+# 2017.03.10
+
+项目招标
