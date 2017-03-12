@@ -309,3 +309,7 @@ udacity dl学习，Gradient descent
 # 2017.03.11
 
 病毒引擎
+
+# 2017.03.12
+
+tv
