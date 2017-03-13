@@ -313,3 +313,7 @@ udacity dl学习，Gradient descent
 # 2017.03.12
 
 tv
+
+# 2017.03.13
+
+讨论需求优先级
