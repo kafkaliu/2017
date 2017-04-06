@@ -407,8 +407,7 @@ why we buy
 how to start startup
 
 # 2017.04.05
-
-how to start startup
+新ideal
 
 # 2017.04.06
 
