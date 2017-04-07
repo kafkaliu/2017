@@ -412,3 +412,7 @@ how to start startup
 # 2017.04.06
 
 how to start startup
+
+# 2017.04.07
+
+OKR
