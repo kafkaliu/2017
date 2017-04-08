@@ -416,3 +416,7 @@ how to start startup
 # 2017.04.07
 
 OKR
+
+# 2017.04.08
+
+team building
