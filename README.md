@@ -420,3 +420,7 @@ OKR
 # 2017.04.08
 
 team building
+
+# 2017.04.09
+
+how to start startup
