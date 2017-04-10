@@ -424,3 +424,7 @@ team building
 # 2017.04.09
 
 how to start startup
+
+# 2017.04.10
+
+local radio
